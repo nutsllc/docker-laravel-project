@@ -2,7 +2,7 @@
 
 This is a develop environment for Laravel that is PHP framework on Docker.
 
-## Require
+## Required
 
 * [Docker](https://www.docker.com/)
 * [Docker Compose](https://docs.docker.com/compose/)
