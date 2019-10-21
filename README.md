@@ -1,4 +1,4 @@
-# Docker Laravel Project
+# Toybox Laravel App base
 
 This is a develop environment for Laravel that is PHP framework on Docker.
 
@@ -15,7 +15,7 @@ cd docker-laravel-project
 docker-compose up -d
 ```
 
-``laravel`` directory appears on root directory of this repository after ``run docker-compose up``. 
+``laravel`` directory appears on root directory of this repository after ``run docker-compose up``.
 
 All of the source of the Laravel are in it and it mount ``/var/www/laravel`` in the container.
 
